@@ -12,7 +12,7 @@ group :development, :test do
   gem 'rspec-rails', '2.11.0'
   gem 'guard-rspec', '0.5.5'
   gem 'guard-spork', '0.3.2'
-  gem 'spork', '0.9.0'
+  gem 'spork', '0.9.2'
 end
 
 
